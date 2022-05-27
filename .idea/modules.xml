@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/LetiMeets.iml" filepath="$PROJECT_DIR$/.idea/LetiMeets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/letimeet-webapp/letimeet-webapp.iml" filepath="$PROJECT_DIR$/letimeet-webapp/letimeet-webapp.iml" />
     </modules>
   </component>
 </project>
